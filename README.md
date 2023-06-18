@@ -17,6 +17,8 @@ Para realizar esta practica se usaran los siguientes elementos:
 - Tarjeta ESP 32
 - Sensor ultrasónico
 - Pantalla LCD 16X2
+- Fuente de voltaje 5v
+- Tierra
 - [NODE RED](http://localhost:1880/)
 
 
